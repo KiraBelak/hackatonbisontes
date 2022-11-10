@@ -9,8 +9,8 @@ export default function Home() {
       </Head>
 
       <main>
-        
-    
+        <h1> Hola</h1>  
+
       </main>
       
   </div>
